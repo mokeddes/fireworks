@@ -1,0 +1,12 @@
+feux d'artifices (Fireworks)
+
+Un feu d'artifice comprends une durée de vol (le temps avant explosion), une puissance sonore et une couleur. Plusieurs feux peuvent être lancés en même temps. Parfois un feu d'artifice échoue.
+
+Afficher un joli feu d'artifice (simuler la puissance de l'explosion textuellement à l'aide de boum / Boum /BOUM / BOOUUM / BOOOUUUMMM)
+
+NB: Couleurs dans un terminal ANSI : http://wiki.bash-hackers.org/scripting/terminalcodes
+voir aussi https://en.wikipedia.org/wiki/ANSI_escape_code
+ex : "\x1B[31m" →  rouge.
+
+
+
